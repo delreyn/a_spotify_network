@@ -2,8 +2,7 @@
 
 ![degree](imgs/degree_centrality.png)
 
-This is a very small project about some playlists from spotify. It was used the [Aircrow's Million Playlist Dataset](https://www.aicrowd.com/challenges/spotify-m
-illion-playlist-dataset-challenge)
+This is a very small project about some playlists from spotify. It was used the [Aircrowd's Million Playlist Dataset](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)
 
 We create and evaluate several metrics such as Betweens Centrality, Closeness etc...
 
